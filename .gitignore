@@ -1,0 +1,17 @@
+# Compiled files
+/target/
+
+# Backup & temp files
+**/*.rs.bk
+**/*~
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# macOS metadata
+.DS_Store
+
