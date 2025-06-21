@@ -1,3 +1,6 @@
+mod cli;
+mod launcher;
+
 fn main() {
-    println!("Hello, ijen!");
+    cli::run();
 }
